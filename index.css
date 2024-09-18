@@ -1,0 +1,22 @@
+* {
+text-align: center;
+}
+body {
+padding: 15px;
+background-color: black;
+color: lightgreen;
+font-family: Consolas;
+}
+summary {
+cursor: default;
+}
+.pages-summ {
+font-size: 22px;
+font-weight: 800;
+}
+li, ul {
+color: yellow;
+background-color: #646700;
+text-align: left;
+margin: 0;
+}
