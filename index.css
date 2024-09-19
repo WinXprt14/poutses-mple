@@ -1,6 +1,3 @@
-* {
-text-align: center;
-}
 body {
 padding: 15px;
 background-color: black;
@@ -8,11 +5,16 @@ color: lightgreen;
 font-family: Consolas;
 }
 summary {
+text-align: center;
 cursor: default;
 }
 .pages-summ {
-font-size: 22px;
+font-size: 46px;
 font-weight: 800;
+}
+.exer-summ {
+font-size: 38px;
+font-weight: 560;
 }
 li, ul {
 color: yellow;
