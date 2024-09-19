@@ -8,14 +8,6 @@ summary {
 text-align: center;
 cursor: default;
 }
-.pages-summ {
-font-size: 22px;
-font-weight: 800;
-}
-.exer-summ {
-font-size: 16px;
-font-weight: 560;
-}
 li, ul {
 color: yellow;
 background-color: #646700;
